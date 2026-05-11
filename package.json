@@ -28,7 +28,8 @@
   },
   "devDependencies": {
     "electron": "^29.4.6",
-    "electron-builder": "^25.1.8"
+    "electron-builder": "^25.1.8",
+    "javascript-obfuscator": "^5.4.2"
   },
   "build": {
     "appId": "com.discord.accoun.tmanager",
