@@ -1,2 +1,2 @@
 require('bytenode');
-require('./server.js');
+require('./server.jsc');
