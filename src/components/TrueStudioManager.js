@@ -1030,8 +1030,10 @@ export class TrueStudioManager {
       </div>` : '';
 
     const filterBtns = ['all','success','info','warn','error'].map(key => `
-      <button class="ts-log-filter-btn ts-log-filter-${key} ${filter === key ? 'active' : ''}" data-log-filter="${key}" title="${FILTER_LABELS[key]}">
-        ${SVG_FILTER[key]}<span class="ts-filter-label">${escapeHtml(FILTER_LABELS[key])}</span>${counts[key] ? `<span class="ts-log-filter-cnt">${counts[key]}</span>` : ''}
+      <button class="ts-log-filter-btn ts-log-filter-${key} ${filter === key ? 'active' : ''}" data-log-filter="${key}">
+        <span class="ts-log-filter-icon-box">${SVG_FILTER[key]}</span>
+        <span class="ts-filter-label">${escapeHtml(FILTER_LABELS[key])}</span>
+        ${counts[key] ? `<span class="ts-log-filter-cnt">${counts[key]}</span>` : ''}
       </button>`).join('');
 
     return `
@@ -1042,21 +1044,32 @@ export class TrueStudioManager {
         </div>
         <div class="ts-log-toolbar-right">
           <div class="ts-log-filters">${filterBtns}</div>
-          <button class="ts-log-ctrl-btn ${autoScroll ? 'active' : ''}" id="ts-log-autoscroll" title="تمرير تلقائي">
-            <svg class="ts-ctrl-scroll-svg" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-              <line x1="7" y1="1" x2="7" y2="10"/><polyline points="3.5 7 7 10.5 10.5 7"/>
-            </svg>
-          </button>
-          <button class="ts-log-ctrl-btn" id="ts-log-copy" title="نسخ السجل">
-            <svg viewBox="0 0 14 14" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-              <rect x="4" y="1" width="8" height="10" rx="1.5"/><path d="M1.5 4v8a1 1 0 0 0 1 1h8"/>
-            </svg>
-          </button>
-          <button class="ts-log-ctrl-btn ts-log-ctrl-clear" id="ts-log-clear" title="مسح السجل">
-            <svg viewBox="0 0 14 14" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M1.5 3.5h11M4.5 3.5V2h5v1.5M5.5 6.5v4M8.5 6.5v4M2.5 3.5l.8 9h7.4l.8-9"/>
-            </svg>
-          </button>
+          <div class="ts-log-ctrl-group">
+            <button class="ts-log-ctrl-btn2 ${autoScroll ? 'active' : ''}" id="ts-log-autoscroll">
+              <span class="ts-ctrl-icon-box">
+                <svg class="ts-ctrl-scroll-svg" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="7" y1="1" x2="7" y2="10"/><polyline points="3.5 7 7 10.5 10.5 7"/>
+                </svg>
+              </span>
+              <span class="ts-ctrl-label">تمرير</span>
+            </button>
+            <button class="ts-log-ctrl-btn2" id="ts-log-copy">
+              <span class="ts-ctrl-icon-box">
+                <svg viewBox="0 0 14 14" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="4" y="1" width="8" height="10" rx="1.5"/><path d="M1.5 4v8a1 1 0 0 0 1 1h8"/>
+                </svg>
+              </span>
+              <span class="ts-ctrl-label">نسخ</span>
+            </button>
+            <button class="ts-log-ctrl-btn2 ts-log-ctrl-clear" id="ts-log-clear">
+              <span class="ts-ctrl-icon-box">
+                <svg viewBox="0 0 14 14" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M1.5 3.5h11M4.5 3.5V2h5v1.5M5.5 6.5v4M8.5 6.5v4M2.5 3.5l.8 9h7.4l.8-9"/>
+                </svg>
+              </span>
+              <span class="ts-ctrl-label">مسح</span>
+            </button>
+          </div>
         </div>
       </div>`;
   }
