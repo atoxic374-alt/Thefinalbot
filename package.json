@@ -1,0 +1,57 @@
+{
+  "name": "discord-account-manager",
+  "private": true,
+  "version": "1.5.6",
+  "description": "A powerful and user-friendly Discord account manager built with Electron.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "package": "electron-builder"
+  },
+  "dependencies": {
+    "axios": "^1.16.0",
+    "axios-cookiejar-support": "^6.0.5",
+    "bcryptjs": "^3.0.3",
+    "bytenode": "^1.5.7",
+    "cookie-parser": "^1.4.7",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.1",
+    "express-session": "^1.19.0",
+    "helmet": "^8.1.0",
+    "http-proxy-agent": "^9.0.0",
+    "https-proxy-agent": "^9.0.0",
+    "open": "^11.0.0",
+    "socks-proxy-agent": "^10.0.0",
+    "tough-cookie": "^6.0.1"
+  },
+  "devDependencies": {
+    "electron": "^29.4.6",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.discord.accoun.tmanager",
+    "productName": "Discord Account Manager",
+    "win": {
+      "target": "nsis",
+      "icon": "src/icons/app-icon.png"
+    },
+    "directories": {
+      "output": "dist"
+    },
+    "extraResources": [
+      "resources/**"
+    ]
+  },
+  "author": "Bherl1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bherl1/DiscordAccMgr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bherl1/DiscordAccMgr/issues"
+  },
+  "homepage": "https://github.com/Bherl1/DiscordAccMgr"
+}

@@ -1,0 +1,142 @@
+{
+  "history": [
+    {
+      "id": "molcbsp8iicx",
+      "ts": 1777544881676,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molc1ryu05lx",
+      "ts": 1777544414166,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molbozguhwy7",
+      "ts": 1777543817359,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molbj184244f",
+      "ts": 1777543539700,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molbe6z0ovk5",
+      "ts": 1777543313868,
+      "account": "acc_3",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molbc8qh727f",
+      "ts": 1777543222841,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molbas0rtsr8",
+      "ts": 1777543154523,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molb6mmwg6h2",
+      "ts": 1777542960920,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "molazrzm5179",
+      "ts": 1777542641266,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    }
+  ],
+  "tokenHealth": {},
+  "cloneSnapshots": [],
+  "picConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "webhook": "",
+    "inApp": true
+  },
+  "picBuffer": [],
+  "antiPruneConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "message": "You were removed from {server} by mistake — please rejoin: {invite}",
+    "distribute": true
+  },
+  "antiPruneLog": [],
+  "tsAccounts": [
+    {
+      "email": "berokhalil77@gmail.com",
+      "password": "v1:bdbcca3054ae587fcdbafa4d:274a52a346729c6b7b531a4b65f0646f:0b1580429e1f54b061",
+      "totpSecret": "",
+      "addedAt": 1777542667509,
+      "verify": {
+        "ok": true,
+        "status": "verified",
+        "message": "Account verified",
+        "mfa": false,
+        "username": "di_e1",
+        "userId": "1033831422810669126",
+        "at": 1777544418823
+      }
+    }
+  ],
+  "tsLastNumber": 0,
+  "tsCaptcha": {}
+}

@@ -1,0 +1,80 @@
+{
+  "history": [
+    {
+      "id": "mor80yyvpmr3",
+      "ts": 1777900455175,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mor7bvq7qvol",
+      "ts": 1777899284575,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mor751c5ccin",
+      "ts": 1777898965253,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    }
+  ],
+  "tokenHealth": {},
+  "cloneSnapshots": [],
+  "picConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "webhook": "",
+    "inApp": true
+  },
+  "picBuffer": [],
+  "antiPruneConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "message": "You were removed from {server} by mistake — please rejoin: {invite}",
+    "distribute": true
+  },
+  "antiPruneLog": [],
+  "tsAccounts": [
+    {
+      "email": "berokhalil77@gmail.com",
+      "password": "v1:db278bb66d85ef325dc444ff:6ac186bad3419870df9aa4485fc5a5c1:bea8dcd3d322c126e0",
+      "totpSecret": "",
+      "addedAt": 1777899332521,
+      "verify": {
+        "ok": true,
+        "status": "verified",
+        "message": "Account verified",
+        "mfa": false,
+        "username": "di_e1",
+        "userId": "1033831422810669126",
+        "at": 1777900459165
+      }
+    }
+  ],
+  "tsLastNumber": 0,
+  "tsCaptcha": {
+    "provider": "capsolver",
+    "apiKey": "v1:401def7ada9c4c828fa54b86:dfccaa53d679ab3838e7909d6c18c9a1:964979f4af9dc6ae3e3842b5483879f4f3e8f5e546ae7649968882a2f4c8744b6a6d594af681b2be00abc5c58de1a8373f101236b85ffd1d2ce4e65057dcaf4134ba460d",
+    "manualFallback": false
+  }
+}

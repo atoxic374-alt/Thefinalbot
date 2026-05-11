@@ -1,0 +1,199 @@
+{
+  "history": [
+    {
+      "id": "moxt32vim72t",
+      "ts": 1778298622542,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxrek7n7q5q",
+      "ts": 1778295798995,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxiluabw0au",
+      "ts": 1778281022099,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxihnr0yfkb",
+      "ts": 1778280827004,
+      "account": "acc_3",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "moxihmvimzd5",
+      "ts": 1778280825870,
+      "account": "acc_2",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "moxihls2cv3a",
+      "ts": 1778280824450,
+      "account": "acc_1",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "moxihkcbark0",
+      "ts": 1778280822587,
+      "account": "acc_5",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "moxihfwvo1c9",
+      "ts": 1778280816847,
+      "account": "acc_5",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxieuou11ym",
+      "ts": 1778280696030,
+      "account": "acc_4",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxidh1wnidd",
+      "ts": 1778280631700,
+      "account": "acc_3",
+      "type": "connect",
+      "target": {
+        "username": "oldsad.",
+        "id": "627546483931217970"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxi4xlpg8i3",
+      "ts": 1778280233245,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "oldsad.",
+        "id": "627546483931217970"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moxhxo75ugvt",
+      "ts": 1778279894465,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "oldsad.",
+        "id": "627546483931217970"
+      },
+      "status": "success"
+    }
+  ],
+  "tokenHealth": {},
+  "cloneSnapshots": [],
+  "picConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "webhook": "",
+    "inApp": true
+  },
+  "picBuffer": [],
+  "antiPruneConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "message": "You were removed from {server} by mistake — please rejoin: {invite}",
+    "distribute": true
+  },
+  "antiPruneLog": [],
+  "tsAccounts": [
+    {
+      "email": "ahmed827eu@gmail.com",
+      "password": "",
+      "totpSecret": "",
+      "directToken": "v1:f28e0683be0f48d0b04d3f1f:0f479377813a21b1836d65547be054de:4308b58ac8f4e04a6ee8e417bb27d2e0df2d52c5da856c5818a3c61aea21459ded3fdab9a176dff5f56a382775306a202b3aa1a4dd3e121476b949c02268d263f69c2e0c3ba8",
+      "addedAt": 1778279964796,
+      "verify": {
+        "ok": true,
+        "status": "verified",
+        "message": "Account verified",
+        "mfa": false,
+        "username": "oldsad.",
+        "userId": "627546483931217970",
+        "at": 1778295804385
+      }
+    },
+    {
+      "email": "ahmed827eu@gmail.com3",
+      "password": "",
+      "totpSecret": "",
+      "directToken": "v1:c062f206c4575f023c04bc81:1c6a1325e76f644436afd272720acb79:3ab28365691a4a51d4da7f3cfc7c45087a0b49764aa1f129abed4e561e16b345d484351e1af4cfc87c1f925ffedcae3d5fc9ffafbc2f8a1b0c6508ce1083a539df6c525e6c475e8e",
+      "addedAt": 1778280483674,
+      "verify": {
+        "ok": true,
+        "status": "verified",
+        "message": "Account verified",
+        "mfa": false,
+        "username": "di_e1",
+        "userId": "1033831422810669126",
+        "at": 1778280640948
+      }
+    },
+    {
+      "email": "berokhalil77@gmail.com",
+      "password": "v1:0256cd740f92e17365de1c9b:c8364ae14aa8bb4cb8a2f40173e2a4ee:a64fd404b08d779d83",
+      "totpSecret": "",
+      "directToken": "v1:f31dc8973a767daa4dae6901:a6a916c66600a5762a41faaa2f8a6f59:c45bdab965825cc2c895f7b62c1575b8d399c3598dd2e4951c751817f0f77f837d9f03845fc95949bfc0acd165ac5580f3442012e4ec5942c7fab70686469ffe20b86071c2146752",
+      "addedAt": 1778280731827,
+      "verify": {
+        "ok": true,
+        "status": "verified",
+        "message": "Account verified",
+        "mfa": false,
+        "username": "di_e1",
+        "userId": "1033831422810669126",
+        "at": 1778295827044
+      }
+    }
+  ],
+  "tsLastNumber": 1,
+  "tsCaptcha": {
+    "provider": "2captcha",
+    "apiKey": "v1:49094f84a2b8566ec61a57be:6da2a2f3f6ad984591a2dca931c37aa8:6907f6058d6e108774b9d62cf59489d5ccf0c201d58a36afb89c8fa1fb6bb1ea"
+  }
+}

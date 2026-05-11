@@ -1,0 +1,38 @@
+{
+  "history": [
+    {
+      "id": "moy7zmaxi6w1",
+      "ts": 1778323655337,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    }
+  ],
+  "tokenHealth": {},
+  "cloneSnapshots": [],
+  "picConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "webhook": "",
+    "inApp": true
+  },
+  "picBuffer": [],
+  "antiPruneConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "message": "You were removed from {server} by mistake — please rejoin: {invite}",
+    "distribute": true
+  },
+  "antiPruneLog": [],
+  "tsAccounts": [],
+  "tsLastNumber": 0,
+  "tsCaptcha": {}
+}

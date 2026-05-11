@@ -1,0 +1,2252 @@
+{
+  "history": [
+    {
+      "id": "mok4kejsbg7n",
+      "ts": 1777471380136,
+      "account": "تت",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mok4gzadzcm6",
+      "ts": 1777471220389,
+      "account": "تت",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moji86o38006",
+      "ts": 1777433858499,
+      "account": "تت",
+      "type": "clone_build_server",
+      "target": {
+        "id": "1484362196468240500",
+        "accounts": [
+          "تت"
+        ]
+      },
+      "status": "failed",
+      "ok": 0,
+      "fail": 31
+    },
+    {
+      "id": "moji634m37hm",
+      "ts": 1777433760598,
+      "account": "تت",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "moji4vjm1sif",
+      "ts": 1777433704114,
+      "account": "تت",
+      "type": "clone_build_server",
+      "target": {
+        "id": "1484362196468240500",
+        "accounts": [
+          "تت"
+        ]
+      },
+      "status": "failed",
+      "ok": 0,
+      "fail": 167
+    },
+    {
+      "id": "mojhz83yp2mc",
+      "ts": 1777433440462,
+      "account": "acc_2",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojhz70yteyz",
+      "ts": 1777433439058,
+      "account": "acc_1",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojhz47traaj",
+      "ts": 1777433435417,
+      "account": "تت",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojhz2assw44",
+      "ts": 1777433432932,
+      "account": "تت",
+      "type": "save_token",
+      "target": {
+        "name": "تت"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojhrxy74ur6",
+      "ts": 1777433100703,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojhpc7c4ulz",
+      "ts": 1777432979208,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojhhtiwipf3",
+      "ts": 1777432628408,
+      "account": "acc_4",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojhc8e2u9et",
+      "ts": 1777432367738,
+      "account": "acc_3",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojh60jau5dy",
+      "ts": 1777432077622,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojgyswg2tm0",
+      "ts": 1777431741136,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojgmvotznuq",
+      "ts": 1777431184877,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg5i7uup5w",
+      "ts": 1777430374266,
+      "account": "ه",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojg5fda9rky",
+      "ts": 1777430370574,
+      "account": "ه",
+      "type": "delete_token",
+      "target": {
+        "name": "ه"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg5bs87kmn",
+      "ts": 1777430365928,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg3sipsqg3",
+      "ts": 1777430294305,
+      "account": "ه",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg3otnucr4",
+      "ts": 1777430289515,
+      "account": "ه",
+      "type": "save_token",
+      "target": {
+        "name": "ه"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg3fejd0bq",
+      "ts": 1777430277307,
+      "account": "Aa",
+      "type": "delete_token",
+      "target": {
+        "name": "Aa"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojg3dybxaqe",
+      "ts": 1777430275427,
+      "account": "acc_1",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojfynl34k0r",
+      "ts": 1777430054631,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojfg9vw6wy4",
+      "ts": 1777429197068,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojf31glw30u",
+      "ts": 1777428579621,
+      "account": "Aa",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojf2xq34fx2",
+      "ts": 1777428574779,
+      "account": "Aa",
+      "type": "save_token",
+      "target": {
+        "name": "Aa"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojf2lrzoqsh",
+      "ts": 1777428559295,
+      "account": "acc_2",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojf2l4fs0k7",
+      "ts": 1777428558447,
+      "account": "acc_1",
+      "type": "disconnect",
+      "target": {},
+      "status": "success"
+    },
+    {
+      "id": "mojf2bj2fsui",
+      "ts": 1777428546014,
+      "account": "acc_2",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    },
+    {
+      "id": "mojf03vka4a7",
+      "ts": 1777428442784,
+      "account": "acc_1",
+      "type": "connect",
+      "target": {
+        "username": "di_e1",
+        "id": "1033831422810669126"
+      },
+      "status": "success"
+    }
+  ],
+  "tokenHealth": {
+    "تت": {
+      "name": "تت",
+      "ok": true,
+      "status": "healthy",
+      "user": {
+        "id": "1033831422810669126",
+        "username": "di_e1",
+        "displayName": "Bri.",
+        "avatar": "https://cdn.discordapp.com/avatars/1033831422810669126/4d5cbdb056d4b1360ae7852463a97cdf.png?size=64"
+      },
+      "checkedAt": 1777433455323
+    }
+  },
+  "cloneSnapshots": [],
+  "picConfig": {
+    "enabled": true,
+    "accounts": [
+      "تت"
+    ],
+    "scope": "all",
+    "servers": [],
+    "webhook": "",
+    "inApp": true
+  },
+  "picBuffer": [
+    {
+      "id": "1499048835564175530",
+      "account": "تت",
+      "ts": 1777471493379,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499048835240955977/Fate.gif?ex=69f36185&is=69f21005&hm=68c657b11ec5975a81e0de71648c81dd05542244f2710cc4d037489b8f675bfb&",
+          "name": "Fate.gif",
+          "width": 600,
+          "height": 600,
+          "contentType": "image/gif",
+          "size": 1243942,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048702361473165",
+      "account": "تت",
+      "ts": 1777471461621,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1329078256611098715",
+        "name": "〢・azkar"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1329078256611098715/1499048702038380705/design.png?ex=69f36165&is=69f20fe5&hm=4f282a23ad4a40df5f22c1f754dc220d654a724e1c9376b5c5b7f669f290992b&",
+          "name": "design.png",
+          "width": 600,
+          "height": 300,
+          "contentType": "image/png",
+          "size": 147531,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048667007553667",
+      "account": "تت",
+      "ts": 1777471453192,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1499048666801901688/colors.png?ex=69f3615d&is=69f20fdd&hm=f509496047c3d4a24140d1908738a23da7ba00df6337a4940fffbdb84f12060b&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048628088606742",
+      "account": "تت",
+      "ts": 1777471443913,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "**عدد اللاعبين 0/50**\n**ستبدأ اللعبه خلال : <t:1777471487:R>**\n@here",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499048628021362828/k550fbH6WO6oQAGw.png?ex=69f36153&is=69f20fd3&hm=2098bae1219a77317c79aed519ad407688929db64777052a7fe281e1020569c0&",
+          "name": "k550fbH6WO6oQAGw.png",
+          "width": 813,
+          "height": 467,
+          "contentType": "image/png",
+          "size": 471678,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048605267263578",
+      "account": "تت",
+      "ts": 1777471438472,
+      "author": {
+        "id": "1464329688460558386",
+        "username": "Rais Bank+",
+        "displayName": "Rais Bank+",
+        "avatar": "https://cdn.discordapp.com/avatars/1464329688460558386/f2d5cf0b253cb737edcf43aef241f861.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1476027426613231787",
+        "name": "bank"
+      },
+      "content": "**💵 $12,243,850,590,783,302,585**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1476027426613231787/1499048605032644729/Fate.png?ex=69f3614e&is=69f20fce&hm=5f2518e7f9c92e3f61c5f453854bf74eb4486ca59f9b0a1705a2bcdc7fa2cdf7&",
+          "name": "Fate.png",
+          "width": 700,
+          "height": 250,
+          "contentType": "image/png",
+          "size": 159042,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048588506828950",
+      "account": "تت",
+      "ts": 1777471434476,
+      "author": {
+        "id": "1433102437396516876",
+        "username": "ملتقى العرب",
+        "displayName": "ملتقى العرب",
+        "avatar": "https://cdn.discordapp.com/avatars/1433102437396516876/31590c3368032a9c1de5a1af1a8fd57f.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "893487686260781167",
+        "name": "ملتقى العرب",
+        "icon": "https://cdn.discordapp.com/icons/893487686260781167/4fc42fa1d162c48465ddfc1a5d7f2e38.webp?size=32"
+      },
+      "channel": {
+        "id": "1136332422095577158",
+        "name": "「🎯」شات・الفعاليات"
+      },
+      "content": "✅ | تم توزيع الرتب على اللاعبين. ستبدأ الجولة الأولى في بضع ثواني...",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1136332422095577158/1499048588221878322/image.png?ex=69f3614a&is=69f20fca&hm=5c0c5c14710a41afb4daca3c6ddcd1ba98c6aca05bab1a29beede400be70e4b2&",
+          "name": "image.png",
+          "width": 768,
+          "height": 512,
+          "contentType": "image/png",
+          "size": 134936,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048583230525470",
+      "account": "تت",
+      "ts": 1777471433218,
+      "author": {
+        "id": "821582656382042172",
+        "username": "7ga_l",
+        "displayName": "نائم",
+        "avatar": "https://cdn.discordapp.com/avatars/821582656382042172/4066da69c0a51fdd14302049403b2412.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "893487686260781167",
+        "name": "ملتقى العرب",
+        "icon": "https://cdn.discordapp.com/icons/893487686260781167/4fc42fa1d162c48465ddfc1a5d7f2e38.webp?size=32"
+      },
+      "channel": {
+        "id": "898897965203197952",
+        "name": "「💬」الشات・العام"
+      },
+      "content": "مسوي نفسك خارج منها؟؟  بس شكرا وعارف هالشيء ومقدره❤️❤️ <@1359301239887626361>",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/898897965203197952/1499048582907432980/IMG_5773.png?ex=69f36149&is=69f20fc9&hm=8516f29c74cee71cf968fc4f22bf17f27ec9f748ec68963e6541f3dc0f7f07fb&",
+          "name": "IMG_5773.png",
+          "width": 1170,
+          "height": 2532,
+          "contentType": "image/jpeg",
+          "size": 561443,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048546341490798",
+      "account": "تت",
+      "ts": 1777471424423,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1226119947990859846",
+        "name": "〢・tax"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1226119947990859846/1499048546144489513/f79fcbb7fe730c22.png?ex=69f36140&is=69f20fc0&hm=0b7a2e87ed4dc085a964305563ddc92a39ee14edaa4e3b70e70cbae8acc6b1ba&",
+          "name": "f79fcbb7fe730c22.png",
+          "width": 3000,
+          "height": 150,
+          "contentType": "image/png",
+          "size": 570952,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048480893702174",
+      "account": "تت",
+      "ts": 1777471408819,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1499048480700629074/colors.png?ex=69f36130&is=69f20fb0&hm=854f15a20df88c6914b7c39c45a781ab9888329db9184e58f151111f8298c452&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048424366936276",
+      "account": "تت",
+      "ts": 1777471395342,
+      "author": {
+        "id": "788709117807951893",
+        "username": "g7f7",
+        "displayName": "T الدكتاتورية",
+        "avatar": "https://cdn.discordapp.com/avatars/788709117807951893/5fa797239fa47121f825e8f521935bc6.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "اليوم كنت بسوي فوكاشا بريد\nوطلعت معي  لابوبو بريد هههههههههههههههههههههههههههه",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499048424010678412/IMG_6381.jpg?ex=69f36123&is=69f20fa3&hm=0e1b03d979f368156e947ff8896639e10613a2b9cebd5bb992ab9c9174a14ed2&",
+          "name": "IMG_6381.jpg",
+          "width": 1242,
+          "height": 2208,
+          "contentType": "image/jpeg",
+          "size": 208755,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048409762631801",
+      "account": "تت",
+      "ts": 1777471391860,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1226119947990859846",
+        "name": "〢・tax"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1226119947990859846/1499048409384878080/f79fcbb7fe730c22.png?ex=69f3611f&is=69f20f9f&hm=44a25658672f6ba848de71e75b4352dda3eb778bb84ac9fe48632c2c0e034b6c&",
+          "name": "f79fcbb7fe730c22.png",
+          "width": 3000,
+          "height": 150,
+          "contentType": "image/png",
+          "size": 570952,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048401327624242",
+      "account": "تت",
+      "ts": 1777471389849,
+      "author": {
+        "id": "1434528005899685898",
+        "username": "Arabic Games",
+        "displayName": "Arabic Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1434528005899685898/2d0ccdfce9d3f657cd611cd574febe30.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "838113441008058388",
+        "name": "Arabic Discord",
+        "icon": "https://cdn.discordapp.com/icons/838113441008058388/a_7ec8e069fd888d7135fda70226f55d28.webp?size=32"
+      },
+      "channel": {
+        "id": "906899480421494795",
+        "name": "chat"
+      },
+      "content": "**نتائج الجولة:**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/906899480421494795/1499048401126428882/scoreboard.png?ex=69f3611d&is=69f20f9d&hm=4fd741aadfba2457544a92b2ded1c04d7568d65990a57a66bfdb24b7df099a5b&",
+          "name": "scoreboard.png",
+          "width": 800,
+          "height": 400,
+          "contentType": "image/png",
+          "size": 225334,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048398983266474",
+      "account": "تت",
+      "ts": 1777471389290,
+      "author": {
+        "id": "1434528005899685898",
+        "username": "Arabic Games",
+        "displayName": "Arabic Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1434528005899685898/2d0ccdfce9d3f657cd611cd574febe30.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "838113441008058388",
+        "name": "Arabic Discord",
+        "icon": "https://cdn.discordapp.com/icons/838113441008058388/a_7ec8e069fd888d7135fda70226f55d28.webp?size=32"
+      },
+      "channel": {
+        "id": "906899480421494795",
+        "name": "chat"
+      },
+      "content": "**خريطة تخمينات اللاعبين:**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/906899480421494795/1499048398748254360/map_result.png?ex=69f3611d&is=69f20f9d&hm=6e42f13e669a92e3775d1be632941f61e949f531bfae0b0ae5a7da27c95dfba7&",
+          "name": "map_result.png",
+          "width": 1000,
+          "height": 500,
+          "contentType": "image/png",
+          "size": 440924,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499048382063448248",
+      "account": "تت",
+      "ts": 1777471385256,
+      "author": {
+        "id": "1464329688460558386",
+        "username": "Rais Bank+",
+        "displayName": "Rais Bank+",
+        "avatar": "https://cdn.discordapp.com/avatars/1464329688460558386/f2d5cf0b253cb737edcf43aef241f861.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1476027426613231787",
+        "name": "bank"
+      },
+      "content": "**💵 $12,243,860,381,263,302,585**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1476027426613231787/1499048381786357761/Fate.png?ex=69f36119&is=69f20f99&hm=d8486eea39ea8f9eac2b1167c0f67a6d3c649fdeaa14c1cbc4945ff8affbbc81&",
+          "name": "Fate.png",
+          "width": 700,
+          "height": 250,
+          "contentType": "image/png",
+          "size": 159092,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047913777664031",
+      "account": "تت",
+      "ts": 1777471273608,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1499047913459024062/colors.png?ex=69f360a9&is=69f20f29&hm=2f1e6c0b77afdd6c29c6e379d20a7bc9ba507b3a7ddb4201f37fcfc4de321415&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047844965912729",
+      "account": "تت",
+      "ts": 1777471257202,
+      "author": {
+        "id": "1499047447983427754",
+        "username": "9630510",
+        "displayName": "963",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1330137673389838416",
+        "name": "شات-تسطير"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1330137673389838416/1499047844529836042/VID_20260429_164240_725.mp4?ex=69f36099&is=69f20f19&hm=4afb03c5902d9ae057001e4da1dce403fac58260238b2c70af5bd112afa0dfe4&",
+          "name": "VID_20260429_164240_725.mp4",
+          "width": 352,
+          "height": 600,
+          "contentType": "video/mp4",
+          "size": 5573930,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047841467994174",
+      "account": "تت",
+      "ts": 1777471256368,
+      "author": {
+        "id": "1474473407637618966",
+        "username": "n57s",
+        "displayName": "Wihte",
+        "avatar": "https://cdn.discordapp.com/avatars/1474473407637618966/8404938d09df6551f456e1b12a9a1c21.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1499047841107021974/7690323578984268707.mp4?ex=69f36098&is=69f20f18&hm=aa3ec5570da435f014b45822decaac9071904f0fe9fd3be8ca4efa9537deab28&",
+          "name": "7690323578984268707.mp4",
+          "width": 480,
+          "height": 446,
+          "contentType": "video/mp4",
+          "size": 1061048,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047834153123900",
+      "account": "تت",
+      "ts": 1777471254624,
+      "author": {
+        "id": "1499047447983427754",
+        "username": "9630510",
+        "displayName": "963",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1330137673389838416",
+        "name": "شات-تسطير"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1330137673389838416/1499047833691750570/VID_20260429_164530_369.mp4?ex=69f36096&is=69f20f16&hm=a7bb91ad5606d23c9cbab2ee376ff7bd3a5232d609e5041173341f3e83edbe74&",
+          "name": "VID_20260429_164530_369.mp4",
+          "width": 352,
+          "height": 640,
+          "contentType": "video/mp4",
+          "size": 2017878,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047823952449737",
+      "account": "تت",
+      "ts": 1777471252192,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499047823746797598/Fate.png?ex=69f36094&is=69f20f14&hm=6f07f54a166da2f6d3b98f01a34ffe4e16e445fe59b6f21bfc6583d62677e65d&",
+          "name": "Fate.png",
+          "width": 2560,
+          "height": 1080,
+          "contentType": "image/png",
+          "size": 866407,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047820701859930",
+      "account": "تت",
+      "ts": 1777471251417,
+      "author": {
+        "id": "1359301239887626361",
+        "username": "rl6_",
+        "displayName": "selr",
+        "avatar": "https://cdn.discordapp.com/avatars/1359301239887626361/2061e2137c9ef1623bcefc4cfedd8110.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "893487686260781167",
+        "name": "ملتقى العرب",
+        "icon": "https://cdn.discordapp.com/icons/893487686260781167/4fc42fa1d162c48465ddfc1a5d7f2e38.webp?size=32"
+      },
+      "channel": {
+        "id": "898897965203197952",
+        "name": "「💬」الشات・العام"
+      },
+      "content": "انا هكر ترا",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/898897965203197952/1499047820412588032/image.png?ex=69f36093&is=69f20f13&hm=9e271e70566b1297530459dba63cf6f0b4ceb5c51d699be7fa315226aea4738b&",
+          "name": "image.png",
+          "width": 313,
+          "height": 313,
+          "contentType": "image/webp",
+          "size": 7108,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047812950786189",
+      "account": "تت",
+      "ts": 1777471249569,
+      "author": {
+        "id": "1499047447983427754",
+        "username": "9630510",
+        "displayName": "963",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1330137673389838416",
+        "name": "شات-تسطير"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1330137673389838416/1499047812476960828/VID_20260429_164305_291.mp4?ex=69f36091&is=69f20f11&hm=8f600f39d10c0a87e14c850d06e3f46e0b00d5acbe9d909d36601a84b54a559f&",
+          "name": "VID_20260429_164305_291.mp4",
+          "width": 352,
+          "height": 640,
+          "contentType": "video/mp4",
+          "size": 2933217,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047810308378655",
+      "account": "تت",
+      "ts": 1777471248939,
+      "author": {
+        "id": "1434528005899685898",
+        "username": "Arabic Games",
+        "displayName": "Arabic Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1434528005899685898/2d0ccdfce9d3f657cd611cd574febe30.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "838113441008058388",
+        "name": "Arabic Discord",
+        "icon": "https://cdn.discordapp.com/icons/838113441008058388/a_7ec8e069fd888d7135fda70226f55d28.webp?size=32"
+      },
+      "channel": {
+        "id": "906899480421494795",
+        "name": "chat"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/906899480421494795/1499047810111377478/street.jpg?ex=69f36090&is=69f20f10&hm=61aa3a483fba5d8d77a19a8e325c615788da32c2edbd721116660ec826c1d3a2&",
+          "name": "street.jpg",
+          "width": 500,
+          "height": 667,
+          "contentType": "image/jpeg",
+          "size": 125163,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047800573394995",
+      "account": "تت",
+      "ts": 1777471246618,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499047800300634215/Fate.png?ex=69f3608e&is=69f20f0e&hm=6f5849a09e4e2be86c664d4a6d3b84b106e03c72b25c37ac79a7d21269663086&",
+          "name": "Fate.png",
+          "width": 2560,
+          "height": 1080,
+          "contentType": "image/png",
+          "size": 926606,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047795171262555",
+      "account": "تت",
+      "ts": 1777471245330,
+      "author": {
+        "id": "1434528005899685898",
+        "username": "Arabic Games",
+        "displayName": "Arabic Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1434528005899685898/2d0ccdfce9d3f657cd611cd574febe30.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "838113441008058388",
+        "name": "Arabic Discord",
+        "icon": "https://cdn.discordapp.com/icons/838113441008058388/a_7ec8e069fd888d7135fda70226f55d28.webp?size=32"
+      },
+      "channel": {
+        "id": "906899480421494795",
+        "name": "chat"
+      },
+      "content": "**نتائج الجولة:**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/906899480421494795/1499047795041112195/scoreboard.png?ex=69f3608d&is=69f20f0d&hm=f9ca2f81f0ea42341d003c40ae44253347b9c6b8fc411273e1b4de7661ea467c&",
+          "name": "scoreboard.png",
+          "width": 800,
+          "height": 400,
+          "contentType": "image/png",
+          "size": 225618,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047791979139114",
+      "account": "تت",
+      "ts": 1777471244569,
+      "author": {
+        "id": "1499047447983427754",
+        "username": "9630510",
+        "displayName": "963",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1330137673389838416",
+        "name": "شات-تسطير"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1330137673389838416/1499047791627075744/VID_20260429_164250_350.mp4?ex=69f3608c&is=69f20f0c&hm=5a3b93043869a621b33c4b48a4b1485bb4064c22fee533a1130de930b19d4d85&",
+          "name": "VID_20260429_164250_350.mp4",
+          "width": 352,
+          "height": 640,
+          "contentType": "video/mp4",
+          "size": 2218808,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047791756972082",
+      "account": "تت",
+      "ts": 1777471244516,
+      "author": {
+        "id": "1434528005899685898",
+        "username": "Arabic Games",
+        "displayName": "Arabic Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1434528005899685898/2d0ccdfce9d3f657cd611cd574febe30.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "838113441008058388",
+        "name": "Arabic Discord",
+        "icon": "https://cdn.discordapp.com/icons/838113441008058388/a_7ec8e069fd888d7135fda70226f55d28.webp?size=32"
+      },
+      "channel": {
+        "id": "906899480421494795",
+        "name": "chat"
+      },
+      "content": "**خريطة تخمينات اللاعبين:**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/906899480421494795/1499047791572287538/map_result.png?ex=69f3608c&is=69f20f0c&hm=5f851b101402a38d50099b6086f04f57f863f2931ebeb6f10e5374484ed9c01a&",
+          "name": "map_result.png",
+          "width": 1000,
+          "height": 500,
+          "contentType": "image/png",
+          "size": 440296,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047782890344639",
+      "account": "تت",
+      "ts": 1777471242402,
+      "author": {
+        "id": "1499047447983427754",
+        "username": "9630510",
+        "displayName": "963",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1330137673389838416",
+        "name": "شات-تسطير"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1330137673389838416/1499047781916999700/VID_20260429_165146_093.mp4?ex=69f3608a&is=69f20f0a&hm=005568f3f978eac7bfa88e7cf199af2641c3f8b90c1a43a59071770139c8d0ed&",
+          "name": "VID_20260429_165146_093.mp4",
+          "width": 480,
+          "height": 352,
+          "contentType": "video/mp4",
+          "size": 10497822,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047762359091453",
+      "account": "تت",
+      "ts": 1777471237507,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499047762103242864/Fate.png?ex=69f36085&is=69f20f05&hm=cff48e77bd119860e5d53ba69bf81532fd6b453363cfee5e652cc63ffe270905&",
+          "name": "Fate.png",
+          "width": 2560,
+          "height": 1080,
+          "contentType": "image/png",
+          "size": 944082,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047743526670377",
+      "account": "تت",
+      "ts": 1777471233017,
+      "author": {
+        "id": "1492562011392049313",
+        "username": "479c",
+        "displayName": "جمجمه ف التهيئه .",
+        "avatar": "https://cdn.discordapp.com/avatars/1492562011392049313/cbce5008df9ee4bd475f402461cdf73f.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1499047743216156854/ips-9DA71083-F973-4A34-BC5D-4322A462EF51.mov?ex=69f36080&is=69f20f00&hm=d8cfa70699a5fdb86d1a84db5358bd7bc48e5f78eea9fe8d9f565655c288142a&",
+          "name": "ips-9DA71083-F973-4A34-BC5D-4322A462EF51.mov",
+          "width": 480,
+          "height": 854,
+          "contentType": "video/quicktime",
+          "size": 1910486,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1499047744533168249",
+      "account": "تت",
+      "ts": 1777471233257,
+      "author": {
+        "id": "1464329688460558386",
+        "username": "Rais Bank+",
+        "displayName": "Rais Bank+",
+        "avatar": "https://cdn.discordapp.com/avatars/1464329688460558386/f2d5cf0b253cb737edcf43aef241f861.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1476027426613231787",
+        "name": "bank"
+      },
+      "content": "**<@691308757543682069> 🏃🏻‍♂️ <@993267977824763974>\n⬅️ 1%\n💵 $21,756,510,623,495,396**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1476027426613231787/1499047744281772123/Fate.png?ex=69f36081&is=69f20f01&hm=acc588cb051df3d0c8a6ac3f3699b8e7656285ab9bad08ca4cb160fa37cb1076&",
+          "name": "Fate.png",
+          "width": 1220,
+          "height": 512,
+          "contentType": "image/png",
+          "size": 56463,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047730729844848",
+      "account": "تت",
+      "ts": 1777471229966,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499047730394435626/Fate.png?ex=69f3607d&is=69f20efd&hm=ec79596a3868d348ef7eddabd468ded1eb1ffca6547f9abb11f29f1f21a548e8&",
+          "name": "Fate.png",
+          "width": 2560,
+          "height": 1080,
+          "contentType": "image/png",
+          "size": 976977,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047725440696383",
+      "account": "تت",
+      "ts": 1777471228705,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1499047725164003459/colors.png?ex=69f3607c&is=69f20efc&hm=8e4dbb9b4179630e5f5a1468580184aa2b6f8e8ddb90bfe44774e08a167b315a&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047718692327424",
+      "account": "تت",
+      "ts": 1777471227096,
+      "author": {
+        "id": "1141804323337142372",
+        "username": "bk6g",
+        "displayName": "E e E e E ebrahim",
+        "avatar": "https://cdn.discordapp.com/avatars/1141804323337142372/c5786e18c1bb98049015067925671345.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "@everyone",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1499047718394265650/IMG_6395.jpg?ex=69f3607b&is=69f20efb&hm=1b3b9db9179d705c66dcf03c8f9d1fe143612e2aecd220396f1dec35c5277612&",
+          "name": "IMG_6395.jpg",
+          "width": 1125,
+          "height": 1707,
+          "contentType": "image/jpeg",
+          "size": 114055,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047700111425566",
+      "account": "تت",
+      "ts": 1777471222666,
+      "author": {
+        "id": "1464329688460558386",
+        "username": "Rais Bank+",
+        "displayName": "Rais Bank+",
+        "avatar": "https://cdn.discordapp.com/avatars/1464329688460558386/f2d5cf0b253cb737edcf43aef241f861.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1476027426613231787",
+        "name": "bank"
+      },
+      "content": "**💵 $0**",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1476027426613231787/1499047699780079616/Fate.png?ex=69f36076&is=69f20ef6&hm=9d27fb115af0a76efbcb428297b5decb3007fb0931bf1290c7dcdd0d1428b26f&",
+          "name": "Fate.png",
+          "width": 700,
+          "height": 250,
+          "contentType": "image/png",
+          "size": 158674,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1499047698672648193",
+      "account": "تت",
+      "ts": 1777471222323,
+      "author": {
+        "id": "1460288480457523324",
+        "username": "Rais Games",
+        "displayName": "Rais Games",
+        "avatar": "https://cdn.discordapp.com/avatars/1460288480457523324/5e48fc161e95d23cd3f392a3612a2b1a.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1475971480037621921",
+        "name": "whisper"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1475971480037621921/1499047698534498386/Fate.png?ex=69f36076&is=69f20ef6&hm=4d0bf93d28223fe00da1bc67d7ac9647a49c66e4e5643fadec7f979ea36d72ff&",
+          "name": "Fate.png",
+          "width": 2560,
+          "height": 1080,
+          "contentType": "image/png",
+          "size": 831120,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891456826441839",
+      "account": "تت",
+      "ts": 1777433971364,
+      "author": {
+        "id": "1224252909764476972",
+        "username": "f2j2",
+        "displayName": "جودي",
+        "avatar": "https://cdn.discordapp.com/avatars/1224252909764476972/499afcc648f0904ed83a05e4b99a25f6.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498891456620789862/IMG_5469.jpeg?ex=69f2cef3&is=69f17d73&hm=b83fd5f8e8ec36b6b40ea8a851a212a50745083a5ca1bfaf596c118e3f0670a8&",
+          "name": "IMG_5469.jpeg",
+          "width": 734,
+          "height": 1483,
+          "contentType": "image/jpeg",
+          "size": 252503,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891440267333782",
+      "account": "تت",
+      "ts": 1777433967416,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498891439952887849/colors.png?ex=69f2ceef&is=69f17d6f&hm=11982118b5453c05e7438c13b5d6ba9a0a68f6ed340f379e356d4de3bb95040b&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891417123033168",
+      "account": "تت",
+      "ts": 1777433961898,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1329078256611098715",
+        "name": "〢・azkar"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1329078256611098715/1498891416884219914/design.png?ex=69f2cee9&is=69f17d69&hm=40aa8c8818ab2687aaf4eda82285d9a52be57780eb994cc6f43f9445aed5ffba&",
+          "name": "design.png",
+          "width": 600,
+          "height": 300,
+          "contentType": "image/png",
+          "size": 63649,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891412538658896",
+      "account": "تت",
+      "ts": 1777433960805,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1329078256611098715",
+        "name": "〢・azkar"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1329078256611098715/1498891412165361774/quran.jpg?ex=69f2cee8&is=69f17d68&hm=2c1b7f833dae7b86b662346025ce7a18ce19016fb6b89ba9a9782e0d47fc0075&",
+          "name": "quran.jpg",
+          "width": 800,
+          "height": 500,
+          "contentType": "image/jpeg",
+          "size": 64168,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891250726862972",
+      "account": "تت",
+      "ts": 1777433922226,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498891250927927446/colors.png?ex=69f2cec2&is=69f17d42&hm=1fd67d430a3148eb77dce235cdbd1cbca0a4844ec7ab87cf8d9ca0f7b01bc6f5&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891168916967596",
+      "account": "تت",
+      "ts": 1777433902721,
+      "author": {
+        "id": "1498468678482530488",
+        "username": "loooostinhell",
+        "displayName": "سقط اسرع شخص بالسنة",
+        "avatar": "https://cdn.discordapp.com/avatars/1498468678482530488/ebe0a2bc92f7a9b74cff8a6ba713e4a4.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "كسم العقوق ناكت ابوها",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498891161509695648/4zm3d31.png?ex=69f2ceac&is=69f17d2c&hm=4411ef1a8783f59ce08c8959cfe28570fca7fb6786663ca4fed5142d7fdf1f57&",
+          "name": "4zm3d31.png",
+          "width": 233,
+          "height": 103,
+          "contentType": "image/webp",
+          "size": 13852,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891062079520858",
+      "account": "تت",
+      "ts": 1777433877249,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498891061865742446/colors.png?ex=69f2ce95&is=69f17d15&hm=18fbf9b94ecbb3a11b5127df820b570e499ff226e07df2f243bc370b4ce3c1e8&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498891055439941652",
+      "account": "تت",
+      "ts": 1777433875666,
+      "author": {
+        "id": "1306700959132684382",
+        "username": "0_d6",
+        "displayName": "𝐀𝐛𝐮 𝐬𝐚𝐮𝐝",
+        "avatar": "https://cdn.discordapp.com/avatars/1306700959132684382/19d54e33a38a624eab1ddc8aba72a371.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "# راحت ايامك ابو سينس",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498891055154855946/Screenshot_-_1.png?ex=69f2ce93&is=69f17d13&hm=1b03c366cf51696f88d2ea8043af74644729fe3ac8b90b777299dd43297e6e10&",
+          "name": "Screenshot_-_1.png",
+          "width": 654,
+          "height": 1188,
+          "contentType": "image/jpeg",
+          "size": 41557,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890976738148513",
+      "account": "تت",
+      "ts": 1777433856902,
+      "author": {
+        "id": "282859044593598464",
+        "username": "ProBot ✨",
+        "displayName": "ProBot ✨",
+        "avatar": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1237069373764665437",
+        "name": "شاليه محمد",
+        "icon": "https://cdn.discordapp.com/icons/1237069373764665437/a_920f957ac2999e857402b0bb2f314acc.webp?size=32"
+      },
+      "channel": {
+        "id": "1237069373764665440",
+        "name": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1237069373764665440/1498890976465387723/welcome.png?ex=69f2ce80&is=69f17d00&hm=a0974b95f076912942da103e165a9da4cad2da3a5c971df34ec7f7d44ed4b207&",
+          "name": "welcome.png",
+          "width": 500,
+          "height": 283,
+          "contentType": "image/png",
+          "size": 63086,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890873876779048",
+      "account": "تت",
+      "ts": 1777433832378,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498890873612534001/colors.png?ex=69f2ce68&is=69f17ce8&hm=b340d18d7aed891c26746662d7baaf6001b821a45f2eb09b29cc0134e1dc9c94&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890835029266543",
+      "account": "تت",
+      "ts": 1777433823116,
+      "author": {
+        "id": "282859044593598464",
+        "username": "ProBot ✨",
+        "displayName": "ProBot ✨",
+        "avatar": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1237069373764665437",
+        "name": "شاليه محمد",
+        "icon": "https://cdn.discordapp.com/icons/1237069373764665437/a_920f957ac2999e857402b0bb2f314acc.webp?size=32"
+      },
+      "channel": {
+        "id": "1237069373764665440",
+        "name": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1237069373764665440/1498890835192709250/welcome.png?ex=69f2ce5f&is=69f17cdf&hm=314c9c397b6df0627e79c48429151517bf36611b5d683ed480663187e67aa0ed&",
+          "name": "welcome.png",
+          "width": 500,
+          "height": 283,
+          "contentType": "image/png",
+          "size": 63079,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890774232825948",
+      "account": "تت",
+      "ts": 1777433808621,
+      "author": {
+        "id": "1306700959132684382",
+        "username": "0_d6",
+        "displayName": "𝐀𝐛𝐮 𝐬𝐚𝐮𝐝",
+        "avatar": "https://cdn.discordapp.com/avatars/1306700959132684382/19d54e33a38a624eab1ddc8aba72a371.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "# اح ولل",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498890773989425353/20260428-0440-17.4766701.mp4?ex=69f2ce50&is=69f17cd0&hm=e4e883d9a6c5e418a7fe08cdea5ff914d6c6d1630d500b53a21f7577f0e5103e&",
+          "name": "20260428-0440-17.4766701.mp4",
+          "width": 450,
+          "height": 326,
+          "contentType": "video/mp4",
+          "size": 278989,
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "1498890708596297869",
+      "account": "تت",
+      "ts": 1777433792972,
+      "author": {
+        "id": "838622294053486613",
+        "username": "sanss6",
+        "displayName": "Sans",
+        "avatar": "https://cdn.discordapp.com/avatars/838622294053486613/906a80a4d1b1c76cb475d998998e5f03.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1237069373764665437",
+        "name": "شاليه محمد",
+        "icon": "https://cdn.discordapp.com/icons/1237069373764665437/a_920f957ac2999e857402b0bb2f314acc.webp?size=32"
+      },
+      "channel": {
+        "id": "1237071326490136687",
+        "name": "💬・𝗰𝗵𝗮𝘁"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1237071326490136687/1498890708537311292/IMG_9796.jpg?ex=69f2ce40&is=69f17cc0&hm=464378e758379c2f16143a18dc557c842738be1a1686fadfec19987b7a450afb&",
+          "name": "IMG_9796.jpg",
+          "width": 2160,
+          "height": 2880,
+          "contentType": "image/jpeg",
+          "size": 315861,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890685158264863",
+      "account": "تت",
+      "ts": 1777433787384,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498890684978036736/colors.png?ex=69f2ce3b&is=69f17cbb&hm=f3fc3892b5cbba1201be21b33a8e7bd6fe57f926d313f4dd5d3c1db5e408ee8e&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890591495524382",
+      "account": "تت",
+      "ts": 1777433765053,
+      "author": {
+        "id": "1498468678482530488",
+        "username": "loooostinhell",
+        "displayName": "سقط اسرع شخص بالسنة",
+        "avatar": "https://cdn.discordapp.com/avatars/1498468678482530488/ebe0a2bc92f7a9b74cff8a6ba713e4a4.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "يعترف ابن المنيوكة انه يرجف ؟",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498890591222763560/h6k93sz.png?ex=69f2ce24&is=69f17ca4&hm=f21373552260980cb5545620fc0ba13bd769e5eb4d075fd64dfb3ac5461a3b19&",
+          "name": "h6k93sz.png",
+          "width": 356,
+          "height": 107,
+          "contentType": "image/webp",
+          "size": 12520,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890363052626013",
+      "account": "تت",
+      "ts": 1777433710588,
+      "author": {
+        "id": "1498468678482530488",
+        "username": "loooostinhell",
+        "displayName": "سقط اسرع شخص بالسنة",
+        "avatar": "https://cdn.discordapp.com/avatars/1498468678482530488/ebe0a2bc92f7a9b74cff8a6ba713e4a4.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "لا هذا مو فلم سكس < هذا السيسي ابن المنيوكة @everyone",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498890362922598400/w8t3pd1.png?ex=69f2cdee&is=69f17c6e&hm=c98b2caa8cef5c325e37704073b7284e33f673b495f5f24316307d6a75f3e530&",
+          "name": "w8t3pd1.png",
+          "width": 158,
+          "height": 259,
+          "contentType": "image/webp",
+          "size": 70576,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890314352689214",
+      "account": "تت",
+      "ts": 1777433698977,
+      "author": {
+        "id": "282859044593598464",
+        "username": "ProBot ✨",
+        "displayName": "ProBot ✨",
+        "avatar": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1237069373764665437",
+        "name": "شاليه محمد",
+        "icon": "https://cdn.discordapp.com/icons/1237069373764665437/a_920f957ac2999e857402b0bb2f314acc.webp?size=32"
+      },
+      "channel": {
+        "id": "1237069373764665440",
+        "name": "𝗪𝗲𝗹𝗰𝗼𝗺𝗲"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1237069373764665440/1498890314440507453/welcome.png?ex=69f2cde2&is=69f17c62&hm=bc30b67889794964d9b8db9d7f679077ef9bbf2ab9b7457574c6c4ef6598cd60&",
+          "name": "welcome.png",
+          "width": 500,
+          "height": 283,
+          "contentType": "image/png",
+          "size": 84921,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890306932838460",
+      "account": "تت",
+      "ts": 1777433697208,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498890306714603700/colors.png?ex=69f2cde1&is=69f17c61&hm=a8e326ef4ef1f7117aacd98ae7ead2678aa7d0d3dfd6bd2e56a35c88f0f2cd11&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890157045186662",
+      "account": "تت",
+      "ts": 1777433661472,
+      "author": {
+        "id": "1304991013797892167",
+        "username": "3shmar system",
+        "displayName": "3shmar system",
+        "avatar": "https://cdn.discordapp.com/avatars/1304991013797892167/6166be29bed0e283eb9829feb4ec5d5d.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1070834754674512002",
+        "name": "3shmar Town",
+        "icon": "https://cdn.discordapp.com/icons/1070834754674512002/a_d259854f780489e94da0f5c570a48cfb.webp?size=32"
+      },
+      "channel": {
+        "id": "1329078256611098715",
+        "name": "〢・azkar"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1329078256611098715/1498890156868894740/design.png?ex=69f2cdbd&is=69f17c3d&hm=5d931253e3cbb7f0a2b7ce484421a78836e3df1f06a1c7f7efd95838760f83b3&",
+          "name": "design.png",
+          "width": 600,
+          "height": 300,
+          "contentType": "image/png",
+          "size": 135647,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498890119069831248",
+      "account": "تت",
+      "ts": 1777433652418,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498890118864437369/colors.png?ex=69f2cdb4&is=69f17c34&hm=bf0307ec17d3fa0918e54f086dd1d42c0948d869dcad97fd68de4bfdfa09eff0&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498889930112241810",
+      "account": "تت",
+      "ts": 1777433607367,
+      "author": {
+        "id": "1498468678482530488",
+        "username": "loooostinhell",
+        "displayName": "سقط اسرع شخص بالسنة",
+        "avatar": "https://cdn.discordapp.com/avatars/1498468678482530488/ebe0a2bc92f7a9b74cff8a6ba713e4a4.webp?size=64",
+        "bot": false
+      },
+      "guild": {
+        "id": "1202040890697469995",
+        "name": "Free Secret.",
+        "icon": "https://cdn.discordapp.com/icons/1202040890697469995/af3294c79a88eb0cec1dbe340cab967a.webp?size=32"
+      },
+      "channel": {
+        "id": "1266204625187504149",
+        "name": "chat"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1266204625187504149/1498889929839870114/7fbspk0.png?ex=69f2cd87&is=69f17c07&hm=77c687679e29ddc2557aaf276817589adda96963aeed232f70db6fa2fa96c2e7&",
+          "name": "7fbspk0.png",
+          "width": 365,
+          "height": 90,
+          "contentType": "image/webp",
+          "size": 9330,
+          "kind": "image"
+        }
+      ]
+    },
+    {
+      "id": "1498889929961504859",
+      "account": "تت",
+      "ts": 1777433607331,
+      "author": {
+        "id": "1476308423267061954",
+        "username": "Rais Colors",
+        "displayName": "Rais Colors",
+        "avatar": "https://cdn.discordapp.com/avatars/1476308423267061954/2670d0df141d40218ed32dc052395cfc.webp?size=64",
+        "bot": true
+      },
+      "guild": {
+        "id": "1394436161182629998",
+        "name": "Rais",
+        "icon": "https://cdn.discordapp.com/icons/1394436161182629998/28d0649cda935dd3e7fd0c655796573a.webp?size=32"
+      },
+      "channel": {
+        "id": "1436893117788852255",
+        "name": "records"
+      },
+      "content": "",
+      "media": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1436893117788852255/1498889929717977189/colors.png?ex=69f2cd87&is=69f17c07&hm=cf4823cc7cbf8ce91221d8855f9218b35e5f682bacf7dbd73f2399c66cc8972a&",
+          "name": "colors.png",
+          "width": 872,
+          "height": 285,
+          "contentType": "image/png",
+          "size": 253315,
+          "kind": "image"
+        }
+      ]
+    }
+  ],
+  "antiPruneConfig": {
+    "enabled": false,
+    "accounts": [],
+    "scope": "all",
+    "servers": [],
+    "message": "You were removed from {server} by mistake — please rejoin: {invite}",
+    "distribute": true
+  },
+  "antiPruneLog": [],
+  "bots": [],
+  "botsLastNumber": 0,
+  "botsConfig": {
+    "captcha2captchaKey": ""
+  }
+}
